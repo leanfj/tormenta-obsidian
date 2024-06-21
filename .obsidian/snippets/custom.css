@@ -1,0 +1,37 @@
+.markdown-preview-view {
+  max-width: 1000px; /* Ajuste este valor conforme necessário */
+  margin: auto; /* Centraliza o conteúdo */
+}
+
+.theme-light,
+.theme-dark {
+  --popover-width: 650px;
+  --popover-height: 600px;
+}
+
+.popover.hover-popover.is-loaded {
+  position: absolute;
+  z-index: var(–layer-popover);
+  transform: scale(
+    0.9
+  ); /* makes the content smaller /
+    / max-height:55vh;
+    max-width:40vw; */
+  min-height: 600px;
+  min-width: 700px;
+  overflow: hidden;
+  padding: 0px 0px 0px 0px;
+}
+.popover .markdown-embed-link {
+  display: block;
+}
+.file-embed-link svg,
+.markdown-embed-link svg {
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+}
+.markdown-embed-link {
+  top: 0.8em;
+  right: 0.8em;
+}

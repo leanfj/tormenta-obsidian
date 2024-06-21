@@ -1,0 +1,3 @@
+Mestra Orjan (humana). Uma mulher corpulenta de cabelos castanhos e compridos, apontada pelo duque local como prefeita de Prado Verde. À Orjan cabe coletar impostos (que ela envia para o castelo do duque) e servir de árbitra para disputas pontuais entre camponeses. Orjan é um pouco gananciosa, por isso organizou o festival — se a aldeia crescer, seu poder também crescerá.
+
+![[Mestra Orjan.png|200]]

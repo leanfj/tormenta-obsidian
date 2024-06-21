@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: itdh2-pizfe
+created: 2024-06-16T19:38:16-03:00

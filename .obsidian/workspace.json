@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "622e0e3128f01e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c2cd88c991ff3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56329b771124af31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b44a6a755718aeaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f272f3ff69f8c5dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6dd810c3f9ad2cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afc67b235bc2ed60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce248458b7e8a0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aa5a6ae8266baa41",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9b64b589681b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3348fb76848584",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. NPC's/Aldor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bff1cb5b4b9658a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. NPC's/Aldor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf5e977da156be00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8616ed8eceeaacd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f1e6b24b51d34a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. NPC's/Aldor.md"
+              }
+            }
+          },
+          {
+            "id": "835fc9f9c5ae0bf4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "90671430444279f2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b592ce26980d1930",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "moulinette:Moulinette Browser": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "a6dd810c3f9ad2cb",
+  "lastOpenFiles": [
+    "2. NPC's/Zarion.md",
+    "2. NPC's/Tunrag.md",
+    "2. NPC's/Sargento Vigar.md",
+    "2. NPC's/Prynna.md",
+    "2. NPC's/Mestra Orjan.md",
+    "2. NPC's/Krylac.md",
+    "2. NPC's/Kromar.md",
+    "2. NPC's/Burash.md",
+    "2. NPC's/Anele.md",
+    "2. NPC's/Aran.md",
+    "2. NPC's/Aldor.md",
+    "1. Notas de Seção/Seção 4.md",
+    "17. PDF's/Sob os Céus de Vectora/Aventura.pdf",
+    "3. Locais/Estalagem esquilo cansado.md",
+    "3. Locais/Fawlen.md",
+    "3. Locais/Prado Verde.md",
+    "5. Missões e Questionamentos/Missões e Questionamentos.md",
+    "6. Agenda/Agenda.md",
+    "7. Mapas/Arton.md",
+    "21. Ferramentas/Tokens.md",
+    "21. Ferramentas/VTT.md",
+    "21. Ferramentas/Musica e Efeitos Sonoros.md",
+    "21. Ferramentas/Mapas.md",
+    "21. Ferramentas/Imagens.md",
+    "21. Ferramentas/Ferramentas Em uso.md",
+    "21. Ferramentas/DM Tools.md",
+    "21. Ferramentas/Dados.md",
+    "9. Ideias Aventuras",
+    "17. PDF's/Tormenta20/T20 - Livro Básico - Jogo do Ano.pdf",
+    "8. DM Tools",
+    "20. Anexos/Tunrag-1.png",
+    "20. Anexos/Tunrag.png",
+    "21. Ferramentas/Sem título",
+    "20. Anexos/Mestra Orjan.png",
+    "20. Anexos/Sem título 1-1.png",
+    "20. Anexos/Sem título 1.png",
+    "21. Ferramentas",
+    "20. Anexos/Sem título-1.png",
+    "20. Anexos/Sargento Vigar-1.png",
+    "20. Anexos/Zarion.png",
+    "20. Anexos/Sargento Vigar.png",
+    "20. Anexos/token_antonio.png",
+    "17. PDF's/Sob os Céus de Vectora",
+    "17. PDF's/Tormenta20",
+    "7. Mapas",
+    "17. PDF's",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#4c00ff",
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}
